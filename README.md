@@ -1,3 +1,5 @@
+
+
 # Multi-Asset Portfolio Analysis in Python
 
 ## Overview
@@ -31,6 +33,13 @@ The project was created to explore:
 - pandas
 - matplotlib
 - yfinance
+
+## How to run
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
 
 ## Metrics calculated
 

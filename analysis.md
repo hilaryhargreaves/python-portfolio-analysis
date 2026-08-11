@@ -12,7 +12,7 @@ January 2021 to December 2025.
 4. The equal-weighted portfolio produced an annualised return of 11.13%
    with annualised volatility of 9.40%.
 5. The portfolio achieved a Sharpe ratio of 0.97, approximately equal to Gold and higher than the other 4 assets, suggesting that diversification improved risk-adjusted performance over the historical period.
-6. US Equities and Global Equities were highly correlated (0.98), limiting the diversification benefit of holding both. Gold and US Bonds generally had much lower correlations with equities, helping explain why the combined portfolio achieved substantially lower volatility than most individual assets.
+6. US and Global Equities were highly correlated at 0.98, meaning they provided relatively little diversification from each other. In contrast, Gold and US Bonds had much lower correlations with the equity assets. Combining these assets therefore reduced the extent to which the portfolio moved with any single equity market.
 
 ## Diversification
 
@@ -29,7 +29,7 @@ the two assets did not move in exactly the same direction.
 - The assumed risk-free rate is fixed at 2%.
 - The ETFs trade in different currencies, so the comparison does not
   fully isolate currency effects.
-- The model does not rebalance the portfolio back to equal weights.
+- The portfolio assumes daily rebalancing back to equal weights, which may not be realistic in practice
 
 ## Conclusion
 
